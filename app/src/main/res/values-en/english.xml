@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="en">english</string>
+    <string name="zh">chinese</string>
+    <string name="set">setting</string>
+    <string name="edit">edit</string>
+    <string name="H">H</string>
+    <string name="F">F</string>
+    <string name="app_name">My Application</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="finsh">finsh</string>
+    <string name="weather">weather</string>
+</resources>

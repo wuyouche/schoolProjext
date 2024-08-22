@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="en">英文</string>
+    <string name="zh">中文</string>
+    <string name="set">設定</string>
+    <string name="edit">編輯</string>
+    <string name="H">攝氏</string>
+    <string name="F">華視</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="finsh">完成</string>
+    <string name="weather">天氣</string>
+</resources>

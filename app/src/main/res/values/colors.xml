@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cold_start">#00FFFF</color>
+    <color name="cold_end">#240EEF</color>
+    <color name="warm_start">#F86D04</color>
+    <color name="warm_end">#E90808</color>
+</resources>
